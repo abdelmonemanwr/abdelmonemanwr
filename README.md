@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmonemanwr&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmonemanwr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelmonemanwr" alt="abdelmonemanwr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 ###
 
 <img align="right" height="175" src="https://media1.tenor.com/m/7oJCQVaU9zYAAAAC/killua-hxh.gif"  />
@@ -36,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmonemanwr&show_icons=true&locale=en&layout=compact" alt="abdelmonemanwr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmonemanwr&show_icons=true&locale=en" alt="abdelmonemanwr" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmonemanwr&" alt="abdelmonemanwr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmonemanwr&show_icons=true&locale=en" alt="abdelmonemanwr" /></p>
