@@ -59,7 +59,7 @@
 
 <tr>
 <td width="30%" align="center" valign="top">
-<img src="https://via.placeholder.com/300x250/fca311/000000?text=Paxi+(Ride+Hailing)" alt="Paxi Logo" style="border-radius: 10px; width: 100%;" />
+<img src="assets/paxi.png" alt="Paxi Logo" style="border-radius: 10px; width: 100%;" />
 <br><br>
 <img src="https://img.shields.io/badge/Arch-Microservices_&_Azure-orange?style=for-the-badge" />
 </td>
