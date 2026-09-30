@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdalmonem Anwar</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelmonemanwr&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmonemanwr" />
-</p>
+</p> -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelmonemanwr&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
